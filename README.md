@@ -45,6 +45,7 @@ Integrated predictive analytics and real-time price management.
 ## ✨ My Goal
 To build innovative and efficient tech solutions while continuously improving my skills as a FullStack Developer.
 
+## 
 ## 🤝🏻 &nbsp;Connect with Me 
 <a href="https://www.linkedin.com/in/sebastián-lópez-304179282/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:juanselopezhernandez@gmail.com?subject=Quiero contactarte%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
