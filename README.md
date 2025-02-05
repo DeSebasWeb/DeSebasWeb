@@ -11,6 +11,23 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
 🚀 Certified Software Developer Technician with training from SENA. <br>🎓Currently pursuing a degree in Systems Engineering (4th semester).<br>📘Skilled in Spring Boot, JSF, PrimeFaces, MySQL, Angular, and more.<br>💡Passionate about learning new technologies and building impactful projects.
 <br><br>
 
+## 🌟 Highlighted Projects
+<h3>📇User Management System</h3>
+  Developed for both web and desktop platforms.<br>
+  CRUD methodology using Spring Boot, JSF, MySQL, and Lombok.<br>
+  Improved efficiency by updating components without reloading the entire page.
+
+<h3>📂Sistema de Inventarios FullStack (En desarrollo)</h3>
+Technologies: Spring Boot + Angular.<br>
+Focused on optimizing business processes.
+
+<h3>🌾Proyecto Abastores (Universidad) </h3>
+Developed a platform for the agronomic market in Latin America.<br>
+Integrated predictive analytics and real-time price management.
+
+## ✨ My Goal
+To build innovative and efficient tech solutions while continuously improving my skills as a FullStack Developer.
+  
 # 💻 Tech Stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
