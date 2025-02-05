@@ -27,7 +27,7 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ##
-#🌟 Highlighted Projects
+# 🌟 Highlighted Projects
 <h3>📇User Management System</h3>
   Developed for both web and desktop platforms.<br>
   CRUD methodology using Spring Boot, JSF, MySQL, and Lombok.<br>
