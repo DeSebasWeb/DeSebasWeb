@@ -2,9 +2,14 @@
 
 <h3 align="center">💻 Sebastián | Junior Software Developer</h3>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 I'm a Junior Developer with a strong focus on building scalable and robust applications. I have experience working with Java and frameworks like Spring Boot, as well as other tools for developing web and desktop applications.
-# 💫 About Me:
+<br>
 🚀 Certified Software Developer Technician with training from SENA. <br>🎓Currently pursuing a degree in Systems Engineering (4th semester).<br>📘Skilled in Spring Boot, JSF, PrimeFaces, MySQL, Angular, and more.<br>💡Passionate about learning new technologies and building impactful projects.
+<br><br>
+
 # 💻 Tech Stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,3 +23,7 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
 # IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
