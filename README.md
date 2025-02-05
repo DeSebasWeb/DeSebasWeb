@@ -31,11 +31,11 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
   CRUD methodology using Spring Boot, JSF, MySQL, and Lombok.<br>
   Improved efficiency by updating components without reloading the entire page.
 
-<h3>📂Sistema de Inventarios FullStack (En desarrollo)</h3>
+<h3>📂Inventory Management System (In Progress)</h3>
 Technologies: Spring Boot + Angular.<br>
 Focused on optimizing business processes.
 
-<h3>🌾Proyecto Abastores (Universidad) </h3>
+<h3>🌾Abastores Project (University)</h3>
 Developed a platform for the agronomic market in Latin America.<br>
 Integrated predictive analytics and real-time price management.
 
