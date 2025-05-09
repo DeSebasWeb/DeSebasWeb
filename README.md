@@ -8,7 +8,7 @@
 <br>
 I'm a Junior Developer with a strong focus on building scalable and robust applications. I have experience working with Java and frameworks like Spring Boot, as well as other tools for developing web and desktop applications.
 <br>
-🚀 Certified Software Developer Technician with training from SENA. <br>🎓Currently pursuing a degree in Systems Engineering (4th semester).<br>📘Skilled in Spring Boot, JSF, PrimeFaces, MySQL, Angular, and more.<br>💡Passionate about learning new technologies and building impactful projects.
+🚀 Certified Software Developer Technician with training from SENA. <br>🎓Currently pursuing a degree in Systems Engineering (5th semester).<br>📘Skilled in Spring Boot, JSF, PrimeFaces, MySQL, Angular, and more.<br>💡Passionate about learning new technologies and building impactful projects.
 <br><br>
 
 ##
