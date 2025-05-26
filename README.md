@@ -28,14 +28,15 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
 
 ##
 # 🌟 Highlighted Projects
-<h3>📇User Management System</h3>
-  Developed for both web and desktop platforms.<br>
-  CRUD methodology using Spring Boot, JSF, MySQL, and Lombok.<br>
-  Improved efficiency by updating components without reloading the entire page.
 
-<h3>📂Inventory Management System (In Progress)</h3>
-Technologies: Spring Boot + Angular.<br>
-Focused on optimizing business processes.
+<h3>📂StockMart-ApiRest(In Progress 70%)</h3>
+Technologies: Spring Boot + Spring security + hibernate + Jpa + Swagger.<br>
+StockMart API is a backend solution built with Java and Spring Boot, designed to manage and analyze key business data. This RESTful API empowers strategic decision-making by providing insights into product and seller performance based on real sales metrics.
+The system includes robust security mechanisms, such as password encryption and role-based authentication, ensuring protected access to sensitive data. Additionally, the API is designed to integrate seamlessly with data dashboards, enabling visual reporting and performance tracking to support business growth and operational efficiency.
+
+<h3>StockMart Frontend (10%)</h3>
+Technologies: Angular
+It will be consuming the ApiRest and show stadistics of the salesperson staff to strategic 
 
 <h3>🌾Abastores Project (University)</h3>
 Developed a platform for the agronomic market in Latin America.<br>
