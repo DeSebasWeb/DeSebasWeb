@@ -30,9 +30,12 @@ I'm a Junior Developer with a strong focus on building scalable and robust appli
 # 🌟 Highlighted Projects
 
 <h3>📂StockMart-ApiRest(In Progress 70%)</h3>
-Technologies: Spring Boot + Spring security + hibernate + Jpa + Swagger.<br>
-StockMart API is a backend solution built with Java and Spring Boot, designed to manage and analyze key business data. This RESTful API empowers strategic decision-making by providing insights into product and seller performance based on real sales metrics.
-The system includes robust security mechanisms, such as password encryption and role-based authentication, ensuring protected access to sensitive data. Additionally, the API is designed to integrate seamlessly with data dashboards, enabling visual reporting and performance tracking to support business growth and operational efficiency.
+Technologies: Spring Boot + Spring security + hibernate + Jpa + Swagger.<br><br>
+StockMart API is a backend solution built with Java and Spring Boot, designed to manage and analyze key business data.<br><br>
+This RESTful API empowers strategic decision-making by providing insights into product and seller performance based on real sales metrics.<br><br>
+The system includes robust security mechanisms, such as password encryption and role-based authentication, ensuring protected access to sensitive data. <br>
+<br>
+Additionally, the API is designed to integrate seamlessly with data dashboards, enabling visual reporting and performance tracking to support business growth and operational efficiency.
 
 <h3>StockMart Frontend (10%)</h3>
 Technologies: Angular
